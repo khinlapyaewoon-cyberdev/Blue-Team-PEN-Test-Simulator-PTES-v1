@@ -75,7 +75,7 @@ Interactive Streamlit Dashboard & Downloadable TXT Report
 ## 👤 Author
 
 Khin La Pyae Woon  
-AI-Enhanced Ethical Hacking | Cybersecurity | Digital Forensics | Defensive Simulation
+AI-Enhanced Ethical Hacking | Cybersecurity | Digital Forensics | Analyze | Developing
 
 🌐 Portfolio: https://khinlapyaewoon-cyberdev.vercel.app  
 🔗 LinkedIn: www.linkedin.com/in/khin-la-pyae-woon-ba59183a2  
